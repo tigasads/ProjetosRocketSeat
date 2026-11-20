@@ -44,6 +44,16 @@ main{
     padding: 24px
 }
 
+footer{
+    text-align: center;
+    color: #F0E8C2;
+    padding-bottom: 48px;
+}
+
+footer img{
+    vertical-align: middle;
+}
+
 #about p + p{
     font-size: 16px;
     margin-top: 12px;
@@ -55,12 +65,9 @@ main{
     width: 800px;;
     background-color: #F0E8C2;
     border-radius: 15px;
-    margin: 48px auto;
+    margin: 48px auto 28px;
     box-sizing: border-box;
 
     color: #573A37
 }
 
-#rodape{
-    margin: auto;
-}
