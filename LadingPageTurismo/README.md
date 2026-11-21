@@ -21,13 +21,13 @@ cd ProjetosRocketSeat/LadingPageTurismo
 
 Abra o arquivo index.html em seu navegador.
 
-Conceitos praticados
-Estruturação de páginas utilizando HTML5.
-Utilização de elementos semânticos.
-Estilização de elementos com CSS3.
-Organização de conteúdo por meio de classes e identificadores.
-Trabalhando com imagens e tipografia.
-Utilização de fontes externas com Google Fonts.
+Conceitos praticados;
+Estruturação de páginas utilizando HTML5;
+Utilização de elementos semânticos;
+Estilização de elementos com CSS3;
+Organização de conteúdo por meio de classes e identificadores;
+Trabalhando com imagens e tipografia;
+Utilização de fontes externas com Google Fonts;
 Personalização de listas utilizando pseudo-elementos CSS.
 
 Estrutura do site:
